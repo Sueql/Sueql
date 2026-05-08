@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Sueql
 
 
-### 👩‍💻 About Me
+### 👩🏻‍💻 About Me
 A Computer Science student documenting my learning journey here.
 
 ---
