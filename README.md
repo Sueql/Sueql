@@ -2,7 +2,7 @@
 
 
 ### 👩🏻‍💻 About Me
-A Computer Science student documenting my learning journey here.
+A Computer Science student.
 
 ---
 
